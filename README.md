@@ -10,4 +10,8 @@ Experimental codes for paper "A Novel Digital Twin-driven Feature Imputation Fra
 <img src="https://github.com/Polimi-YuYue/NIFD-Net/blob/main/Framework.png" width="500px">
 </div>
 3. Diagnosis Results
+<div align=center>
+<img src="https://github.com/Polimi-YuYue/NIFD-Net/blob/main/Diagnosis%20Results.jpg" width="500px">
+</div>
+
 论文正在Under Review！ 代码即将公布，敬请关注，谢谢！ The paper is under review. The code will be released after the acceptance of this paper.
