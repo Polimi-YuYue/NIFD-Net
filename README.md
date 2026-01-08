@@ -1,5 +1,5 @@
 # NIFD-Net
-Experimental codes for paper "A Novel Digital Twin-enabled Three-stage Feature Imputation Framework for Non-contact Intelligent Fault Diagnosis".
+Experimental codes for paper "A novel digital twin-enabled three-stage feature imputation framework for non-contact intelligent fault diagnosis".
 
 1. Digital Twin models
 <div align=center>
@@ -20,6 +20,7 @@ Vibration-based fault diagnosis methods are widely used in industrial applicatio
 
 
 # Paper
+https://www.sciencedirect.com/science/article/pii/S1474034625003271
 
 # A Novel Digital Twin-enabled Three-stage Feature Imputation Framework for Non-contact Intelligent Fault Diagnosis
 
@@ -32,3 +33,15 @@ b School of Computing and Engineering, University of Huddersfield, Queensgate, H
 c Department of Key Lab of Industrial Computer Control Engineering of Hebei Province, Yanshan University, Qinhuangdao 06600, China
 
 # If this code is helpful to you, please cite this paper as follows, thank you!
+# Citation
+
+@article{yu2025novel,
+  title={A novel digital twin-enabled three-stage feature imputation framework for non-contact intelligent fault diagnosis},
+  author={Yu, Yue and Karimi, Hamid Reza and Gelman, Len and Liu, Xin},
+  journal={Advanced Engineering Informatics},
+  volume={66},
+  pages={103434},
+  year={2025},
+  publisher={Elsevier}
+}
+
