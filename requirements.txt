@@ -1,0 +1,13 @@
+# Deep Learning Framework
+torch>=1.10.0
+torchvision>=0.11.0
+
+# Medical/Scientific Image Processing & Metrics
+monai>=1.0.0
+numpy
+Pillow
+
+# Tensor Manipulation & Utilities
+einops
+munch
+tqdm
